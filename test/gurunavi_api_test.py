@@ -8,7 +8,7 @@ url = "https://api.gnavi.co.jp/RestSearchAPI/v3/"
 #パラメータの設定
 params={}
 params["keyid"] = "***************" #取得したアクセスキー
-params["freeword"] = "新橋,ランチ,10000"
+params["freeword"] = "虎ノ門,ランチ,10000"
 
 
 if __name__ == "__main__":
